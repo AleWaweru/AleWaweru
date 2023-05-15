@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github/AleWaweru](github/AleWaweru)
 
-- 💬 Ask me about  **Javascript** **React** **Ruby**
+- 💬 Ask me about  **Javascript** **CSS** **HTML** **BOOTSTRAP** **WEBPACK** **FIGMA**
 
 - 📫 How to reach me **ngashalex8@gmail.com**
 
