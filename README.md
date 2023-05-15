@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alewaweru" alt="alewaweru" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **JAVASCRIPT** **REACT**  **RUBY**
 
 - 👨‍💻 All of my projects are available at [github/AleWaweru](github/AleWaweru)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about  **Javascript** **React** **Ruby**
 
 - 📫 How to reach me **ngashalex8@gmail.com**
 
