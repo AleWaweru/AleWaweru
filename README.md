@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alewaweru" alt="alewaweru" /></a> </p>
 
-- 🌱 I’m currently learning  **REACT**  **REDUX** **RUBY**
+- 🌱 I’m currently learning  **NEXT JS**  **FULLSTACK DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [github/AleWaweru](github/AleWaweru)
 
-- 💬 Ask me about   **JAVASCRIPT** **CSS** **HTML** **BOOTSTRAP** **WEBPACK** **FIGMA** **REACT**
+- 💬 Ask me about   **JAVASCRIPT** **REACT JS** **NEXT JS** **TAILWIND CSS** **MONGO DB** **POSTGRES SQL** **RUBY ON RAILS**
 
 - 📫 How to reach me **ngashalex8@gmail.com**
 
