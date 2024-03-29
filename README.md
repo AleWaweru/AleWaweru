@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github/AleWaweru](github/AleWaweru)
 
-- 💬 Ask me about   **JAVASCRIPT **  **REACT JS**  **NEXT JS**  **TAILWIND CSS**  **MONGO DB**  **POSTGRES SQL**  **RUBY ON RAILS**  **NODE JS**  **MONGODB**  **MYSQL**
+- 💬 Ask me about   **JAVASCRIPT**  **REACT JS**  **NEXT JS**  **TAILWIND CSS**  **MONGO DB**  **POSTGRES SQL**  **RUBY ON RAILS**  **NODE JS**  **MONGODB**  **MYSQL**
 
 - 📫 How to reach me **ngashalex8@gmail.com**
 
