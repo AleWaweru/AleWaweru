@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alewaweru" alt="alewaweru" /></a> </p>
 
-- 🌱 I’m currently learning  **REACT NATIVE**  **FULLSTACK DEVELOPMENT**
+- 🌱 I’m currently learning  **REACT NATIVE**  **MOBILE DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [github/AleWaweru](github/AleWaweru)
 
